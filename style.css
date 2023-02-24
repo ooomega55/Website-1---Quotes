@@ -1,0 +1,20 @@
+body{
+    background-image: linear-gradient(#d9965f, );
+}
+
+li {
+    color: green;
+}
+
+.jumbotron {
+    background-image: url(citifieldnight.jpg);
+    height: 768px;
+    background-repeat: no-repeat;
+}
+
+.jumbostyle {
+    color: teal;
+    font-family: helvetica;
+    font-size: 100px;
+    font-weight: bold;
+}
